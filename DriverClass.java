@@ -7,6 +7,7 @@ public class DriverClass {
         Scanner keyboard = new Scanner(System.in);
 
         System.out.println("Enter an integer dividend to calculate: ");
+        System.out.println("Enter an integer dividend to calculate: ");
         userInput = keyboard.nextInt();
 
         printer.doIt(userInput);
